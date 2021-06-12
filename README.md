@@ -3,7 +3,7 @@ Who am I? What are my interests?
 My name is Joe Howard Marsh, I am a Data Analyst novice and looking forward to progressing in my career.
 My interests are wide ranging from UK housing and crime statistics, COVID 19 disease spread, cryptocurrency market and worldwide/nationwide demographics.
 I'm passionate about critical thinking and scepticism and want to apply my knowledge in these fields to analysis of data.
-I believe data can be used to make the world a better place. Science isn't perfect, but it is the best tool we have for aquiring the truth.
+I believe data can be used to make the world a better place. Science isn't perfect, but it is the best tool we have for aquiring the truth and making data-driven decisions.
 
 
 Methods and Tools
