@@ -3,7 +3,7 @@ Who am I? What are my interests?
 My name is Joe Howard Marsh, I am a Data Analyst and looking forward to progressing in my career.
 My interests are wide ranging from UK housing and crime statistics, COVID 19 disease spread, cryptocurrency market and worldwide/nationwide demographics.
 I'm passionate about critical thinking and scepticism and want to apply my knowledge in these fields to analysis of data.
-I believe data can be used to make the world a better place. Science isn't perfect, but it is the best tool we have for aquiring the truth and making data-driven decisions is a large part of that process.
+I believe data can be used to make the world a better place by making data-driven decisions that can impact the world in a positive way.
 
 
 Methods and Tools
@@ -13,6 +13,7 @@ I use Python's matplotlib and seaborn for data visualisations in Python, I also 
 I code mostly in Python (using Jupyter and Pycharm) and SQL (using MySQL and SSMS - SQL Server Management Studio).
 Within Python I use libraries such as Pandas, Numpy, Matplotlib, Seaborn, Sklearn and Tensorflow for my work.
 I am also learning to use Git (for using Github properly)
+In my current role I use Tableau for building dashboards to provide insights for the clients we work for.
 
 Please find me at:
 
