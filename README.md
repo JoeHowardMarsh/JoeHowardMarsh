@@ -13,7 +13,7 @@ I use Python's matplotlib and seaborn for data visualisations in Python, I also 
 I code mostly in Python (using Jupyter and Pycharm) and SQL (using MySQL and SSMS - SQL Server Management Studio).
 Within Python I use libraries such as Pandas, Numpy, Matplotlib, Seaborn, Sklearn and Tensorflow for my work.
 I am also learning to use Git (for using Github properly)
-In my current role I use Tableau for building dashboards to provide insights for the clients we work for.
+In my current role I use SAS, Microsoft SQL, Excel macros, Linux and bespoke software within my company.
 
 Please find me at:
 
